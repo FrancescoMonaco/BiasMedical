@@ -7,3 +7,6 @@ The models developed are:
 * Augmented model (ADASYN)
 * Model with a new label
 * Adversarial neural network
+
+Theory is explored in:
+https://thesis.unipd.it/handle/20.500.12608/33543
